@@ -67,7 +67,7 @@ ul li::before{
     position: absolute;
     height: 28px;
     width: 25px;
-    background-image: url(images/uncheck.svg);
+    background-image: url(uncheck.svg);
     background-size: cover;
     background-position: center;
     top: 6px;
@@ -83,7 +83,7 @@ ul li.checked::before{
     position: absolute;
     height: 28px;
     width: 25px;
-    background-image: url(images/checked.svg);
+    background-image: url(checked.svg);
     background-size: cover;
     background-position: center;
     top: 6px;
